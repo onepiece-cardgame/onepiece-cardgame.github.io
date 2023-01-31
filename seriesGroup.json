@@ -1,0 +1,14 @@
+[
+  {
+    "id": 1,
+    "name": "booster"
+  },
+  {
+    "id": 2,
+    "name": "deck"
+  },
+  {
+    "id": 3,
+    "name": "promotion"
+  }
+]
