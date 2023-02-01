@@ -1,5 +1,6 @@
 {
   "next": "次",
   "previous": "前",
-  "close": "閉める"
+  "close": "閉める",
+  "noResult": "一致するデータがありません"
 }
