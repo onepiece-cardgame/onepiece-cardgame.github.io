@@ -25,10 +25,23 @@ import enRarity from "@/public/en/rarity.json";
 import enSeries from "@/public/en/series.json";
 import enType from "@/public/en/type.json";
 
+const patchCards = function (cards, locale) {
+  if (locale === "zh") {
+    return cards.map((card) => {
+      if (card.id === "OP02-022") {
+        card.effect =
+          "【主要】從自己的卡組上面查看5張卡片，公開最多1張擁有包含『白鬍子海賊團』特徵的角色卡，並加入手牌。之後，將其餘卡片依任意順序放到卡組下面。";
+      }
+
+      return card;
+    });
+  }
+};
+
 const data = {
   zh: {
     attribute: zhAttribute,
-    cards: zhCards,
+    cards: patchCards(zhCards, "zh"),
     color: zhColor,
     effect: zhEffect,
     feature: zhFeature,
