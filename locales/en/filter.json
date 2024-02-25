@@ -22,6 +22,7 @@
   "event": "Event",
   "deck": "Deck",
   "booster": "Booster",
+  "special_booster": "Extra Booster",
   "promotion": "Event/Product/Freebie",
   "filter": "Filter",
   "apply": "Apply"

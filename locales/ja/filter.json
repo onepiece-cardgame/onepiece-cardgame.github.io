@@ -22,6 +22,7 @@
   "event": "イベント",
   "deck": "スタートデッキ",
   "booster": "ブースター",
+  "special_booster": "エクストラブースター ",
   "promotion": "プロモーションカード",
   "filter": "絞り込み",
   "apply": "決定"
