@@ -2,5 +2,9 @@
   "next": "Next",
   "previous": "Previous",
   "close": "Close",
-  "noResult": "No Result"
+  "noResult": "No Result",
+  "cancel": "Cancel",
+  "name": "Name",
+  "image": "Image",
+  "count": "Count"
 }

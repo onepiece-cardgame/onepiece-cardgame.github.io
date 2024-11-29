@@ -1,0 +1,12 @@
+{
+  "addToDeck": "Add to deck",
+  "max": "MAX",
+  "min": "MIN",
+  "deck": "Deck",
+  "cardPool": "Card Pool",
+  "prevStep": "Back",
+  "createDeck": "Create Deck",
+  "deckMemberAmountError": "A deck should made of exactly 50 cards",
+  "selectAsLeader": "Select as the leader",
+  "memberRemovalWarning": "Switching to this leader may result in the removal of some cards from the deck"
+}

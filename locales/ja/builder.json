@@ -1,0 +1,12 @@
+{
+  "addToDeck": "デッキに追加",
+  "max": "最大値",
+  "min": "最小値",
+  "deck": "デッキ",
+  "cardPool": "カードプール",
+  "prevStep": "前のステップ",
+  "createDeck": "デッキ構築",
+  "deckMemberAmountError": "デッキはちょうど 50 枚のカードで構成されている必要があります",
+  "selectAsLeader": "キャプテンとして選ぶ",
+  "memberRemovalWarning": "このリーダーに変更すると、一部のカードがデッキから削除される可能性があります。"
+}

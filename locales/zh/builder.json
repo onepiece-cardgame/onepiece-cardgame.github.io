@@ -1,0 +1,19 @@
+{
+  "addToDeck": "加入牌組",
+  "max": "最大",
+  "min": "最小",
+  "deck": "牌組",
+  "cardPool": "卡池",
+  "prevStep": "上一步",
+  "createDeck": "建立牌組",
+  "deckMemberAmountError": "一副牌組必須剛好有50張牌",
+  "selectAsLeader": "選擇作為隊長",
+  "memberRemovalWarning": "更換為這位隊長可能會造成部份的卡牌從牌組裡移除",
+  "createDeckSuccess": "新增牌組成功",
+  "yourDeckIdIs": "您的牌組編號為",
+  "successfulCopy": "複製成功",
+  "failedCopy": "複製失敗",
+  "headToDeckPage": "前往該牌組頁面",
+  "restart": "重新建構牌組",
+  "copyDeckUrl": "複製牌組網址"
+}

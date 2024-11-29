@@ -2,5 +2,9 @@
   "next": "次",
   "previous": "前",
   "close": "閉める",
-  "noResult": "一致するデータがありません"
+  "noResult": "一致するデータがありません",
+  "cancel": "キャンセル",
+  "name": "カード名",
+  "image": "写真",
+  "count": "個数"
 }
